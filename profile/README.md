@@ -1,18 +1,21 @@
-## 🦦 OTTER TALES 🦦
-  
-* 🌌 In the faint glow of Dalamud, the otter Plogon stealthily navigates the data streams, seeking the secrets of the digital ocean. 
+## <p align="center">**🦦 OTTER TALES 🦦**</p>
 
-* 🌐 Plogon is not just an otter; it is a child of Dalamud, an explorer of the information age, with oceans of code reflected in its eyes. 
+<p align="center">
+  —— 🌌 ——<br>
+  In the faint glow of Dalamud, the otter Plogon stealthily navigates the data streams, seeking the secrets of the digital ocean. <br><br>
+  —— 🌐 ——<br>
+  Plogon is not just an otter; it is a child of Dalamud, an explorer of the information age, with oceans of code reflected in its eyes. <br><br>
+  —— 🛡️ ——<br>
+  Guided by Dalamud, the otter Plogon becomes the guardian of cyberspace, leaving legends with its agile figure in the virtual world. <br><br>
+  —— 💡 ——<br>
+  The light of Dalamud illuminates Plogon’s path, as this cyber otter weaves the networks of the future with its wisdom. 
+</p>
 
-* 🛡️ Guided by Dalamud, the otter Plogon becomes the guardian of cyberspace, leaving legends with its agile figure in the virtual world. 
-
-* 🕸️ The light of Dalamud illuminates Plogon’s path, as this cyber otter weaves the networks of the future with its wisdom. 
-
+<p align="center">
 <img src="https://github.com/ottercorp/.github/assets/18360825/09cf2ca8-6801-468d-80d8-676dafe94b2f" alt="otter" width="200"/>
+</p>
 
-<br><br><br>
-
-&copy; 2024 Odder Otter Interactive
+<p align="center"> &copy; 2024 Odder Otter Interactive </p>
 <!--
 
 **Here are some ideas to get you started:**
